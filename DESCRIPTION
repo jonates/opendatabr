@@ -1,8 +1,9 @@
-Package: opendatar
-Title: What the Package Does (one line, title case)
+Package: opendatabr
+Title: Conjuntos de dados abertos
 Version: 0.0.0.9000
-Authors@R: person("First", "Last", email = "first.last@example.com", role = c("aut", "cre"))
-Description: What the package does (one paragraph).
+Authors@R: person("Jonatas", "Silva do Espirito Santo", email = "jonates@gmail.com", role = c("aut", "cre"))
+Description: Conjuntos de dados abertos a serem utilizados em aplicacoes no R. Para
+             mais informacoes consulte o material.
 Depends:
     R (>= 3.3.1)
 License: MIT + file LICENSE
