@@ -4,10 +4,10 @@ Esse pacote contém bases de dados abertas, maioria do Brasil, a serem utilizada
 
 Atualmente disponibiliza 2 conjuntos de dados:
 
-1. ideb_brasil_ensino_medio
-2. pnud_uf
+1. ~ideb_brasil_ensino_medio~
+2. ~pnud_uf~
 
-O ideb_brasil_ensino_medio contem os valores dos indicadores utilizados para o calculo do ideb do ensino médio para o Brasil, como as taxas de aprovações (por série) e as notas da prova SAEB. Conta também com o valor do IDEB e as metas para os anos de 2005, 2007, 2009, 2013, 2015, 2017 e 2019.
+O ~ideb_brasil_ensino_medio~ contém como atributo os valores dos indicadores utilizados para o calculo do ideb do ensino médio para o Brasil, como as taxas de aprovações (por série) e as notas da prova SAEB. Conta também com o valor do IDEB e as metas para os anos de 2005, 2007, 2009, 2013, 2015, 2017 e 2019. Também estratifica essas informações pela rede de ensino.
 
 ~~~R
 #Instale o pacote devtoools caso ainda não tenha instalado
