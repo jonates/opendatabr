@@ -8,7 +8,6 @@ Esse pacote contém bases de dados abertas, maioria do Brasil, a serem utilizada
 
 #instala o pacote opendatabr
 devtools::install_github("jonates/opendatabr")
-library(ggplot2)
 
 #carrega a base do ideb do ensino médio do Brasil
 df <- opendatabr::ideb_brasil_ensino_medio
